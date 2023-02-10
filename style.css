@@ -1,0 +1,243 @@
+*{padding: 0; margin: 0;}
+
+body{style: width:100%; height:134%;}
+
+@media screen and (max-width: 1000px){
+    body{
+        background: rgba(0, 0, 0, 1.0);
+    }
+}
+
+#font {
+    font-family: Lucida Bright;
+}
+#square1 {
+    float: center;
+    width: 100%;
+    height: 50px;
+    background: rgba(41, 41, 41, 1);}
+
+#square2 {
+    float: center;
+    width: 100%;
+    height: 70px;
+}
+
+#vk {
+    position: relative;
+    margin: 7px 939px;
+}
+
+
+#pp {
+    position: absolute;
+
+}
+
+#square3 {
+    float: left;
+    width: 10%;
+    height: 300%;
+}
+
+#square4 {
+    border-radius: 10px;
+    float: left;
+    width: 80%;
+    height: 300%;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+#square5 {
+    float: left;
+    width: 700px;
+    height: 466px;}
+
+#filadelfia {
+    margin: 30px 20px;
+    position: absolute;
+}
+
+#YangnyeomChickin {
+    margin: 0px 19px;
+    position: relative;
+}
+
+#YangnyeomChickinbackground{
+    margin: 0px 0px;
+    position: absolute;
+}
+
+#YangnyeomChickinreadmore{
+    position: relative;
+    margin: 239px 30px;
+}
+
+#square6 {
+    float: right;
+    width: 470px;
+    height: 2690px;
+}
+
+#soupicon {
+    position: absolute;
+    margin: 925px 70px;
+
+}
+
+#backeryicon {
+    position: absolute;
+    margin: 1100px 70px;
+
+}
+
+#drinksicon {
+    position: absolute;
+    margin: 1290px 303px;
+
+}
+
+#rollicon {
+    position: absolute;
+    margin: 1290px 70px;
+
+}
+
+#saucesicon {
+    position: absolute;
+    margin: 1090px 280px;
+
+}
+
+#secondicon {
+    position: absolute;
+    margin: 925px 290px;
+
+}
+
+#cat {
+    position: absolute;
+    margin: 1400px 40px;
+}
+
+#china {
+    position: absolute;
+    margin: 2100px 70px;
+}
+
+#japan {
+    position: absolute;
+    margin: 2107px 297px;
+}
+
+#korea {
+    position: absolute;
+    margin: 2300px 90px;
+}
+
+#thailand {
+    position: absolute;
+    margin: 2300px 300px;
+}
+
+#namjoonbackground {
+    position: absolute;
+    margin: 0px 0px;
+}
+
+#square7 {
+    float: left;
+    width: 340px;
+    height: 474px;
+}
+
+#square8 {
+    float: right;
+    width: 360;
+    height: 553;
+}
+
+#TomYamSoup {
+    position: relative;
+    margin: 45px 25px;
+}
+
+#Funchosawithmushroomsandvegetables {
+    position: relative;
+    margin: 49px 5px;
+}
+
+#Porkwithmushroomsinsoysauce {
+    position: relative;
+    margin: 0px 25px;
+}
+
+#Funchosawithwoodmushrooms {
+    position: relative;
+    margin: 0px 5px;
+}
+
+#WOKwithnoodles {
+    position: relative;
+    margin: 45px 30px;
+}
+
+#Udonnoodleswithchicken {
+    position: relative;
+    margin: 45px 0px;
+}
+
+#TomYamKungsoup {
+    position: relative;
+    margin: 0px 30px;
+}
+
+#KimchiSoup {
+    position: relative;
+    margin: 0px 0px;
+}
+
+#mushrooms {
+    position: absolute;
+}
+
+#square9 {
+    float: left;
+    width: 340px;
+    height: 79px;
+}
+
+#square10 {
+    float: left;
+    width: 700px;
+    height: 699px;
+}
+
+#square11 {
+    float: right;
+    width: 706px;
+    height: 971px;
+}
+
+#square12 {
+    float: left;
+    width: 1178px;
+    height: 257px;
+}
+
+#square13 {
+    float: left;
+    width: 606px;
+    height: 1690px;
+}
+
+#square14 {
+    float: left;
+    width: 500px;
+    height: 300px;
+}
+
+#uwu {
+    margin: 0px 40px;
+}
+
